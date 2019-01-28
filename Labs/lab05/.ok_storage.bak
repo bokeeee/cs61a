@@ -1,0 +1,5 @@
+'acorn_finder-correct', (0, 70)
+'memory-correct', (512, 70)
+'build_successors_table-correct', (1024, 70)
+'construct_sent-correct', (1536, 70)
+'sprout_leaves-correct', (2048, 70)
